@@ -1,2 +1,1 @@
-# K-means-clustering
-K-means Clustering for Imagery Analysis
+# K-means-clustering for Imagery Analysi
